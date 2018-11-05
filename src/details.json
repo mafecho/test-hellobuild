@@ -1,0 +1,29 @@
+{
+
+  "details":[
+    {
+      "title": "Card 1",
+      "description": "This is the description that belongs to the card 1",
+      "dateCreated": "2018-04-16",
+      "estado": false
+    },
+    {
+      "title": "Card 2",
+      "description": "This is the description that belongs to the card 2",
+      "dateCreated": "2018-02-06",
+      "estado": false
+    },
+    {
+      "title": "Card 3",
+      "description": "This is the description that belongs to the card 3",
+      "dateCreated": "2018-10-26",
+      "estado": false
+    },
+    {
+      "title": "Card 4",
+      "description": "This is the description that belongs to the card 4",
+      "dateCreated": "2018-05-11",
+      "estado": false
+    }
+  ]
+}
